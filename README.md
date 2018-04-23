@@ -10,7 +10,7 @@
 ##Steps to Run Mobile Application(IOT)
 
 
-Send an Image from your mobile number to the +1 6464193753.
+Send an Image from your mobile number.
 
 You will immediately get response from running server. It will give all the hash tags related to the image, which later on be posted on Instagram.
 
