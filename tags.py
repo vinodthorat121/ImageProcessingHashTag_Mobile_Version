@@ -1,7 +1,7 @@
 from clarifai.rest import ClarifaiApp
 
 
-app = ClarifaiApp(api_key='a59ba86af07b4ea699677c516b226ff6')
+app = ClarifaiApp()
 
 def get_relevant_tags(image_url):
 	response_data = app.tag_urls([image_url])
